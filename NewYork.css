@@ -1,0 +1,29 @@
+body{
+    background:yellow;
+    font-family: Baskerville;
+}
+
+h1{
+    color: limegreen;
+    text-align: center;
+}
+
+div{
+    box-sizing: border-box;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.image{
+    float:left;
+    padding = 20px;
+    background-color: limegreen;
+    width = 200px;
+    margin: 0 0 2% 2%;
+}
+
+.image > p{
+    padding = 0px;
+    margin: 4px;
+    color: sky-blue;
+}
